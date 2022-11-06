@@ -78,9 +78,6 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="forgotPasswordButton" destination="gsZ-bd-B31" id="i7n-v6-95P"/>
-                        <outlet property="forgotUsernameButton" destination="g23-Bs-miX" id="6CX-yW-doA"/>
-                        <outlet property="loginButton" destination="xQb-dN-Iw7" id="QRP-IY-ZlC"/>
                         <outlet property="passwordTF" destination="9o3-NA-ZN0" id="kLo-zf-Ovq"/>
                         <outlet property="userNameTF" destination="ruY-MX-xaG" id="rvQ-Lh-pft"/>
                         <segue destination="Zp3-Bt-tJm" kind="show" identifier="Welcome" id="Bjp-uX-cDn"/>
